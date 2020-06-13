@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
